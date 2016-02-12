@@ -1,0 +1,2 @@
+#pattern  filter=crypt diff=crypt
+super_secret.txt filter=crypt diff=crypt
